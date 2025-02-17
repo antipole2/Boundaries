@@ -45,14 +45,14 @@ This utility ca be used to off-load objects for particular areas such as a cruis
 
 [TIP]
 ==========
-Before unloading ojects, I strongly recommend running the https://github.com/antipole2/JavaScripts-shared/blob/main/Housekeeper/Housekeeper.adoc[Housekeeper script] to resolve any issues with your objects, such as multiple points at the same location.
+Before unloading objects, I strongly recommend running the https://github.com/antipole2/JavaScripts-shared/blob/main/Housekeeper/Housekeeper.adoc[Housekeeper script] to resolve any issues with your objects, such as multiple points at the same location.
 ==========
 
 === Saving the objects to a .gpx file
 To export the objects using the Route & Mark Manager, you first need to make them visible and all other objects invisible.
 
 ==== Making tracks visible
-As it is not possible at present for the script to change track visibility, you need instead to add a prefix to the track name.
+As the script cannot currently change track visibility, you need to add a prefix to the track name instead.
 In the tracks tab of the Route & Mark Manager you can then use the filter to show just those tracks.
 Then select _Show all tracks_.  This makes these tracks visible and others invisible.
 
