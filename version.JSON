@@ -1,6 +1,6 @@
 {	"name":"Boundaries",
-	"version":"1.1",
-	"date":"17 Feb 2025",
+	"version":"2.0",
+	"date":"18 Feb 2025",
 	"script": "https://raw.githubusercontent.com/antipole2/Boundaries/main/boundary.js",
 	"new":"Incorporates in-built update checking",
 	"pluginMinVersion": "3.1.1",	
