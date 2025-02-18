@@ -8,8 +8,8 @@ trackGuidsTodo = [];	// to be array of selected routes
 inRoutes = 0;	// number of selected waypoints used in a route
 
 scriptName = "Boundaries";
-scriptVersion = 2.0;
-require("pluginVersion")("3.1.1");
+scriptVersion = 1.1;
+require("pluginVersion")(3.1);
 require("checkForUpdate")(scriptName, scriptVersion, 5, "https://raw.githubusercontent.com/antipole2/Boundaries/main/version.JSON");
 consoleName(scriptName);
 
